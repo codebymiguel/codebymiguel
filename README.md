@@ -2,16 +2,16 @@
 ---
 
 ## 🔹 About me  
-From Chef to Coder — building projects in **C++**, **TypeScript** and **Fastify**.  
+From Chef to Coder — building projects in **C++** and **TypeScript**.
 Stubborn and intense, I thrive on solving problems.  
 Passionate about **backend, architecture, and game development**, bringing **vision, creativity and real-world experience** to every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
+<!--- 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Python for automation and data manipulation.
+- 👯 I’m looking to collaborate on game development projects in TypeScript or C/C++, projects mixing software and hardware.
+- 💬 Ask me about the best pizza recipe to debug code.
+- ⚡ Fun fact: I enjoy blending food recipes with code — sometimes, both end up on fire.
+- ✨ Always learning, always building.
 ---
 
 ## 🔹 Skills  
@@ -26,10 +26,18 @@ Passionate about **backend, architecture, and game development**, bringing **vis
 ---
 
 ## 🔹 Projects  
-- 🕹️ **Multiplayer Pong** — real-time game with lobbies, tournaments and WebSockets.  
-- 📡 **IRC Server (C++98)** — learning network programming and server/client architecture.  
-- 🚁 **Drone Hackathon** — autonomous delivery system combining hardware and software.  
-- 🧮 **RPN Calculator** — exploring stack-based logic and C++ constraints.  
+
+### [![WEB](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,docker,tailwind,vite,npm)](https://github.com/codebymiguel/ft_transcendence)
+
+- [ft_transcendence](https://github.com/codebymiguel/ft_transcendence) - Full-stack web application centered around a Pong game competition
+  
+- so_long
+- cube3D
+
+- CPPs
+- 📡 **IRC Server (C++98)** — learning network programming and server/client architecture.
+  
+- 🧮 **Inception** — 
 
 ---
 
@@ -41,5 +49,3 @@ Passionate about **backend, architecture, and game development**, bringing **vis
 </p>
 
 ---
-
-✨ Always learning, always building.
